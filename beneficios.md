@@ -8,7 +8,7 @@ Estamos en la búsqueda constante de oportunidades, beneficios y espacios para q
 
 #### Algunos de los beneficios
 
-- Promoción `sponsoreada` de proyectos y emprendimientos relacionados al desarrollo de videojuegos en nuestros canales principales 
+- Promoción `patrocinada` de proyectos y emprendimientos relacionados al desarrollo de videojuegos en nuestros canales principales 
 	- IGDAPY facebook (+2.2k seguidores)
 	- IGDAPY twitter (+290 seguidores)
 	- GAMEDEVPY facebook (+1k seguidores)
