@@ -1,0 +1,48 @@
+# Site
+name: IGDA Paraguay
+description: Asociacion de desarrolladores de videojuegos de Paraguay
+meta_description: "Asociacion de desarrolladores de videojuegos de Paraguay."
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.png'
+paginate: 12
+baseurl: 
+email: 'paurolon@igda.org.py'
+google_analytics: 'UA-132040905-1'
+disqus: 'igdapy'
+sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5c36119da2d3880013a24189&product=inline-share-buttons" async="async"></script>'
+
+# Authors
+authors:
+  victor:
+    name: Victor Corvalan
+    display_name: Victor
+    gravatar: dca5c7cfcfc50d3d05c95b3658de392c
+    email: viccorvalan@gmail.com
+    web: https://pescode.wordpress.com
+    twitter: https://twitter.com/pescadon
+    description: "Desarrollador de videojuegos y Mobile dev en Roshka."
+  pau:
+    name: Paulino Rolon
+    display_name: Paulino
+    gravatar: b1cc14991db7a456fcd761680bbc8f81
+    email: paurolon@creadores.com.py
+    web: https://www.creadores.com.py
+    twitter: https://twitter.com/paurolon
+    description: "CEO de Creadores"
+
+# Plugins
+plugins: 
+  - jekyll-paginate
+  - jekyll-archives
+    
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+    
+# Other
+markdown: kramdown
+highlighter: rouge
