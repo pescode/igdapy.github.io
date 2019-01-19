@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Primer Foro con Expertos en el Desarrollo de Videojuegos"
-author: victor
+author: igdapy
 categories: [ IGDAPY ]
 image: assets/images/1.jpg
 ---

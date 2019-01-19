@@ -1,7 +1,7 @@
 # Site
 name: IGDA Paraguay
-description: Asociacion de desarrolladores de videojuegos de Paraguay
-meta_description: "Asociacion de desarrolladores de videojuegos de Paraguay."
+description: Asociacion de desarrolladores de videojuegos del Paraguay
+meta_description: "Asociacion de desarrolladores de videojuegos del Paraguay."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.png'
 paginate: 12
@@ -21,14 +21,14 @@ authors:
     web: https://www.linkedin.com/in/viccorvalan/
     twitter: https://twitter.com/pescadon
     description: "Desarrollador de videojuegos y Mobile dev en Roshka."
-  pau:
-    name: Paulino Rolon
-    display_name: Paulino
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: paurolon@creadores.com.py
-    web: https://www.creadores.com.py
-    twitter: https://twitter.com/paurolon
-    description: "CEO de Creadores"
+  igdapy:
+    name: IGDA Paraguay
+    display_name: IGDAPY
+    gravatar: 0b01286e89919f7e2eeca859eb7b2679
+    email: igdapy@gmail.com
+    web: http://www.igda.org.py
+    twitter: https://twitter.com/igdapy
+    description: "IGDA Paraguay"
 
 # Plugins
 plugins: 

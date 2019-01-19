@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "IGDA Meetup #6"
-author: victor
+author: igdapy
 categories: [ IGDAPY, eventos ]
 image: assets/images/3.jpg
 ---

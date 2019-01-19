@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Nació la Federación de Industrias Creativas"
-author: victor
+author: igdapy
 categories: [ IGDAPY ]
 image: assets/images/2.jpg
 featured: true
