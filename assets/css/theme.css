@@ -127,6 +127,15 @@ section.recent-posts {
     padding-right: 1em;
     
 }
+.navbar-toggleable-md .navbar-nav .nav-link.highlightspecial {
+    background: #a25bde;
+    color: #fff;
+    border-radius: 4px;
+    box-shadow: 0 6px 10px 0 rgba(0,0,0,0.1);
+        padding-left: 1em;
+    padding-right: 1em;
+    
+}
 .navbar-toggler {
     z-index:9999;
 }
