@@ -4,7 +4,7 @@ title:  "Nació la Federación de Industrias Creativas"
 author: igdapy
 categories: [ IGDAPY ]
 image: assets/images/2.jpg
-featured: true
+featured: false
 ---
 
  Es muy importante esto ya que es algo que se viene desarrollando hace mucho tiempo desde varias organizaciones del sector de la Economía Creativa y por fin ahora se dio este paso histórico.

@@ -2,7 +2,7 @@
 layout: post
 title:  "Young Game Jam 2018"
 author: igdapy
-categories: [ IGDAPY, gamejams ]
+categories: [ gamejams ]
 image: assets/images/4.jpg
 featured: false
 ---
