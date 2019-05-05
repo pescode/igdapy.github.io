@@ -367,12 +367,18 @@ span.post-name a,span.post-read-more a:hover {
     line-height: 1.6;
 }
 .wrapintro {
-    background: #ffffffd4;
+    background: #011840;
     width: 700px;
     padding: 3rem;
     max-width: 90%;
     margin: 0px auto;
     text-align: center;
+}
+.wrapintro h1{
+	color:white;
+}
+.wrapintro h2{
+	color:white;
 }
 .footer {
 	border-top:1px solid rgba(0,0,0,.05)!important;

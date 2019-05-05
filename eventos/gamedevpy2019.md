@@ -1,0 +1,85 @@
+---
+layout: page
+title: GAMEDEVPY 2019
+comments: true
+---
+
+El mayor evento en la industria nacional de videojuegos.
+Comparte con creadores destacados de latinoámerica en charlas y talleres patrocinados por Unity Brasil.
+
+#### ACERCA DE GAMEDEVPY 2019
+
+**IGDA Paraguay** (International Game Developers Association, filial Paraguay), organizará por quinto año consecutivo la conferencia más importante acerca de desarrollo de videojuegos del país, que congregará a todos interesados en el ámbito de la creación de videojuegos, y curiosos en general. Este año, por primera vez, se contará con conferencistas y participantes internacionales, y durará dos días **(jueves 30 y viernes 31 de mayo)**, realizándose en la **Universidad Autónoma de Asunción**.
+
+El **GameDevPY** es **totalmente gratuito**, y tratará temas como ser el diseño, programación, comercialización, y estudio de casos de éxito de videojuegos desarrollados en nuestro país y en el mundo. Además habrá una zona de demos de videojuegos paraguayos, para que los interesados puedan conocer y probar los desarrollos de producción nacional.
+
+#### ACTIVIDADES
+
+**Jueves 30 de mayo, de 17 a 22 hs: Salón Josefina Pla.**
+
+Se realizarán conferencias con conferencistas nacionales e internacionales. Además, habrá una zona de exposición de videojuegos nacionales y de invitados internacionales, localizada en un salón cercano a las conferencias. El cronograma de conferencias se anunciará en breve.
+
+**Viernes 31 de mayo, de 9 a 19 hs: En las aulas de la UAA.**
+
+Se realizarán talleres específicos con los conferencistas internacionales, de medio día de duración, donde los participantes podrán evacuar dudas y especializarse en temas específicos. Para participar de estos talleres los interesados deben ser socios de IGDA PY y estar con sus cuotas sociales al día. 
+
+#### CONFERENCIAS
+
+**Alexandre Kikuchi - Tech Evangelist (Latin America) Unity Technologies (Brasil)**
+
+Alexandre actualmente impulsa la tecnología de Unity en latinoamérica, y apoya proyectos desarrollados con la misma. En el pasado formó parte de estudios de desarrollo como ser T4 interactive, Odin Game Studio, e Interativa Events Solutions.
+
+Conferencia: "Unity 2019 para Juegos, Películas y Arte."
+
+**Roy Magariños - CEO en Digi Learnnials (Argentina)**
+
+Productor de videojuegos, profesor, emprendedor, experto en diseño estratégico.
+
+Conferencia: "Deconstruyendo juegos Free to Play"
+
+**Andrés Vergez - Co-Founder en Digi Learnnials (Argentina)**
+
+Consultor en diseño y producción de videojuegos, veterano de la industria móvil, profesor y emprendedor.
+
+Taller: "Pitching para videojuegos"
+
+**Fernando Sansberro - Director de Batovi Studios (Uruguay)**
+
+Batovi Games Studio es una empresa de desarrollo de videojuegos con 10 años de existencia.
+Fernando ha sido director de la Carrera de Desarrollo Profesional de Videojuegos en A+ Escuela de
+Artes Visuales. En el pasado fue consultor sobre contenidos en Plan Ceibal y directivo en Proanima
+y Cámara Audiovisual del Uruguay y actualmente integra la Mesa de Trabajo de Videojuegos de
+Dinatel/MIEM.
+
+#### EXPO
+
+Videojuegos desarrollados en PARAGUAY que estarán presentes durante el EVENTO.
+
+#### PREGUNTAS FRECUENTES
+
+**¿Tiene algún costo la entrada al evento?** 
+
+El acceso a la EXPO y CONFERENCIAS es libre y gratuito para todos. 
+
+**¿Tiene algún costo los talleres?** 
+
+Los talleres sólo estarán disponibles para los miembros de IGDA PARAGUAY que cuenten con sus cuotas al día. El costo para ser miembro de la Asociación es de 100.000gs / anual. [Más info para asociarse][asociate-igda]
+
+**¿Pueden participar menores de edad?**
+
+Solo mayores de 18 años.
+
+#### PATROCINADORES
+
+El evento cuenta con el apoyo de Unity Technologies y de la Universidad Autónoma de Asunción.
+
+#### ENLACES RELACIONADOS
+
+[Evento en FACEBOOK][evento_fb]
+
+#### ¡TE ESPERAMOS!
+
+![walking]({{ site.baseurl }}/assets/images/eventos/gamedevpy19/gamedevpybanner.png)
+
+[evento_fb]:https://www.facebook.com/events/2148082561941182/
+[asociate-igda]:../asociate.html
