@@ -4,7 +4,7 @@ title:  "Concurso de Desarrollo de Videojuegos"
 author: igdapy
 categories: [ concursos ]
 image: assets/images/8.jpg
-featured: true
+featured: false
 ---
 El Centro Educativo Los Laureles y el Cabildo organizan 2 concursos de Desarrollo de Videojuegos.
 

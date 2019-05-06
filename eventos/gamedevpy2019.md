@@ -9,6 +9,8 @@ Comparte con creadores destacados de latinoámerica en charlas y talleres patroc
 
 #### ACERCA DE GAMEDEVPY 2019
 
+![walking]({{ site.baseurl }}/assets/images/10_3.jpg)
+
 **IGDA Paraguay** (International Game Developers Association, filial Paraguay), organizará por quinto año consecutivo la conferencia más importante acerca de desarrollo de videojuegos del país, que congregará a todos interesados en el ámbito de la creación de videojuegos, y curiosos en general. Este año, por primera vez, se contará con conferencistas y participantes internacionales, y durará dos días **(jueves 30 y viernes 31 de mayo)**, realizándose en la **Universidad Autónoma de Asunción**.
 
 El **GameDevPY** es **totalmente gratuito**, y tratará temas como ser el diseño, programación, comercialización, y estudio de casos de éxito de videojuegos desarrollados en nuestro país y en el mundo. Además habrá una zona de demos de videojuegos paraguayos, para que los interesados puedan conocer y probar los desarrollos de producción nacional.
@@ -27,11 +29,15 @@ Se realizarán talleres específicos con los conferencistas internacionales, de 
 
 **Alexandre Kikuchi - Tech Evangelist (Latin America) Unity Technologies (Brasil)**
 
+![walking]({{ site.baseurl }}/assets/images/eventos/gamedevpy19/alexandre-kikuchi.png)
+
 Alexandre actualmente impulsa la tecnología de Unity en latinoamérica, y apoya proyectos desarrollados con la misma. En el pasado formó parte de estudios de desarrollo como ser T4 interactive, Odin Game Studio, e Interativa Events Solutions.
 
 Conferencia: "Unity 2019 para Juegos, Películas y Arte."
 
 **Roy Magariños - CEO en Digi Learnnials (Argentina)**
+
+![walking]({{ site.baseurl }}/assets/images/eventos/gamedevpy19/roy-magarinos.jpg)
 
 Productor de videojuegos, profesor, emprendedor, experto en diseño estratégico.
 
@@ -39,11 +45,15 @@ Conferencia: "Deconstruyendo juegos Free to Play"
 
 **Andrés Vergez - Co-Founder en Digi Learnnials (Argentina)**
 
+![walking]({{ site.baseurl }}/assets/images/eventos/gamedevpy19/andres-vergez.jpg)
+
 Consultor en diseño y producción de videojuegos, veterano de la industria móvil, profesor y emprendedor.
 
 Taller: "Pitching para videojuegos"
 
 **Fernando Sansberro - Director de Batovi Studios (Uruguay)**
+
+![walking]({{ site.baseurl }}/assets/images/eventos/gamedevpy19/fernando-sansberro.jpg)
 
 Batovi Games Studio es una empresa de desarrollo de videojuegos con 10 años de existencia.
 Fernando ha sido director de la Carrera de Desarrollo Profesional de Videojuegos en A+ Escuela de
@@ -65,9 +75,6 @@ El acceso a la EXPO y CONFERENCIAS es libre y gratuito para todos.
 
 Los talleres sólo estarán disponibles para los miembros de IGDA PARAGUAY que cuenten con sus cuotas al día. El costo para ser miembro de la Asociación es de 100.000gs / anual. [Más info para asociarse][asociate-igda]
 
-**¿Pueden participar menores de edad?**
-
-Solo mayores de 18 años.
 
 #### PATROCINADORES
 
@@ -80,6 +87,8 @@ El evento cuenta con el apoyo de Unity Technologies y de la Universidad Autónom
 #### ¡TE ESPERAMOS!
 
 ![walking]({{ site.baseurl }}/assets/images/eventos/gamedevpy19/gamedevpybanner.png)
+![walking]({{ site.baseurl }}/assets/images/eventos/gamedevpy19/gamedevpycover.png)
+![walking]({{ site.baseurl }}/assets/images/eventos/gamedevpy19/gamedevpycoversquare.png)
 
 [evento_fb]:https://www.facebook.com/events/2148082561941182/
 [asociate-igda]:../asociate.html
