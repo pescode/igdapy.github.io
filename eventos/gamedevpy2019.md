@@ -61,6 +61,18 @@ Artes Visuales. En el pasado fue consultor sobre contenidos en Plan Ceibal y dir
 y Cámara Audiovisual del Uruguay y actualmente integra la Mesa de Trabajo de Videojuegos de
 Dinatel/MIEM.
 
+**Eduardo Benitez - CEO Warani Studios (Paraguay)**
+
+![walking]({{ site.baseurl }}/assets/images/eventos/gamedevpy19/eduardo-benitez.jpg)
+
+Malavisión: El Origen de Waraní Studios será el primer videojuego paraguayo disponible en la PS4 y Eduardo Benítez nos cuenta su experiencia en su charla "Cómo lanzar un videojuego en la tienda de PlayStation".
+
+**Gabriel Villalba - CTO Posibillian Tech (Paraguay)**
+
+![walking]({{ site.baseurl }}/assets/images/eventos/gamedevpy19/gabriel-villalba.jpg)
+
+Gabriel Villalba, nos comenta sobre la importancia de participar en las conferencias de la industria de videojuegos como la Game Developers Conference - GDC, y sobre todo cómo sacar mejor partido de ellas como desarrollador.
+
 #### EXPO
 
 Videojuegos desarrollados en PARAGUAY que estarán presentes durante el EVENTO.
