@@ -4,7 +4,7 @@ title:  "Google Play anuncia su aceleradora para juegos móviles"
 author: igdapy
 categories: [ igdapy ]
 image: assets/images/9.jpg
-featured: true
+featured: false
 ---
 Por primera vez la convocatoria estará abierta para los siguientes países latinoamericanos: Argentina, Bolivia, Brazil, Chile, Colombia, Costa Rica, Ecuador, Guatemala, Mexico, Panama, Paraguay, Peru, Uruguay y Venezuela.  
 

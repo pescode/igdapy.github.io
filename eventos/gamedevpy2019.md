@@ -73,6 +73,14 @@ Malavisión: El Origen de Waraní Studios será el primer videojuego paraguayo d
 
 Gabriel Villalba, nos comenta sobre la importancia de participar en las conferencias de la industria de videojuegos como la Game Developers Conference - GDC, y sobre todo cómo sacar mejor partido de ellas como desarrollador.
 
+**Juan de Urraza - CEO Posibillian Tech (Paraguay)**
+
+![walking]({{ site.baseurl }}/assets/images/eventos/gamedevpy19/urraza.jpg)
+
+Entre los logros de Fhacktions se encuentra el Indie Games Festival LATAM, que le permitió un feature en la tienda de Google Play.  A raíz del feature el videojuego alcanzó mayores jugadores de diversas partes del mundo y a su vez un mayor impulso para seguir creciendo y mejorando el juego.
+
+Juan Urraza nos cuenta su experiencia en posicionamiento de videojuegos.
+
 #### EXPO
 
 Videojuegos desarrollados en PARAGUAY que estarán presentes durante el EVENTO.
