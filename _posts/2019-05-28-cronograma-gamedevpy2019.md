@@ -61,6 +61,7 @@ Andrés Vergez - Co-Founder en Digi Learnnials (ARGENTINA)
 **17:00hrs a 20:00hrs**
 
 >Taller "Producción de videojuegos"
+
 Fernando Sansberro - Director de Batovi Studios (URUGUAY)
 
 **EL ACCESO ES LIBRE Y GRATUITO**
