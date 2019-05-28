@@ -6,7 +6,7 @@ categories: [ igdapy ]
 image: assets/images/11.jpg
 featured: true
 ---
-El GAMEDEVPY 2019 arranca este jueves 30 de Mayo y este es el cronograma oficial del evento. 
+El GAMEDEVPY 2019 arranca este jueves 30 de Mayo en la UNIVERSIDAD AUTÓNOMA DE ASUNCIÓN y este es el cronograma oficial del evento. 
 
 ### Jueves 30 de Mayo - Auditorio Josefina Plá
 
