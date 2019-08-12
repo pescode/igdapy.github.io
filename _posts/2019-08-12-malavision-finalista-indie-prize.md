@@ -10,7 +10,7 @@ Hace unos días, los chicos de **Warani Studios** anunciaron de que su videojueg
 
 > El videojuego **FHACKTIONS** de **POSIBILLIAN TECH**, también realizado en Paraguay, fue nominado en el **INDIE PRIZE USA 2017** y obtuvo el premio en la categoría **MEJOR AUDIO**.
 
-Gracias a la colaboración de **IGDA-PARAGUAY** con el **BID-LAB y el CIRD**, un representante de **WARANI STUDIOS** tendrá los pasajes para poder participar en el evento a realizarse en **LOS ANGELES, CA, ESTADOS UNIDOS**.
+A través de **IGDA-PARAGUAY** y el apoyo del **Proyecto Economía Naranja, Fuerza Creativa BID LAB-CIRD**, un representante de **WARANI STUDIOS** tendrá los pasajes para poder participar en el evento a realizarse en **LOS ANGELES, CA, ESTADOS UNIDOS**.
 
 ![walking]({{ site.baseurl }}/assets/images/14_2.jpg)
 
@@ -34,3 +34,7 @@ Conocé más del proyecto y de **Warani Studios** en los siguientes enlaces
 [steam]:https://store.steampowered.com/app/511490/Malavision_The_Origin/
 
 ![walking]({{ site.baseurl }}/assets/images/14_1.jpg)
+
+Este proyecto cuenta con el apoyo del Proyecto Economía Naranja, Fuerza Creativa BID LAB-CIRD.
+
+![walking]({{ site.baseurl }}/assets/images/bidlabcirdeconomianaranjalogo.png)
