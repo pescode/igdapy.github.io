@@ -12,7 +12,11 @@ Hace unos días, los chicos de **Warani Studios** anunciaron de que su videojueg
 
 Gracias a la colaboración de **IGDA-PARAGUAY** con el **BID-LAB y el CIRD**, un representante de **WARANI STUDIOS** tendrá los pasajes para poder participar en el evento a realizarse en **LOS ANGELES, CA, ESTADOS UNIDOS**.
 
+![walking]({{ site.baseurl }}/assets/images/14_2.jpg)
+
 **Malavision, El Origen**, actualmente se encuentra disponible en la plataforma de distribución digital STEAM, se trata de la versión original del proyecto. La versión que ahora fue nominada al **INDIE PRIZE USA 2019** se trata de un lavado de cara que vienen trabajando arduamente desde hace un buen tiempo y que pronto verá la luz y será distribuido para **PlayStation 4** y **STEAM**.
+
+![walking]({{ site.baseurl }}/assets/images/14_3.jpg)
 
 Conocé más del proyecto y de **Warani Studios** en los siguientes enlaces
 
