@@ -179,7 +179,6 @@ section.recent-posts {
 }
 .listfeaturedtag .card {
 	border-radius:2px;
-	height:260px;
 	padding-left:0;
 	margin-bottom:15px;
 }
@@ -214,8 +213,7 @@ section.recent-posts {
     font-weight: 400;
 }
 .listfeaturedtag .wrapfooter {
-	position:absolute;
-	bottom:20px;
+	position:relative;
 	font-size:12px;
 	display:block;
 	width:85%;
