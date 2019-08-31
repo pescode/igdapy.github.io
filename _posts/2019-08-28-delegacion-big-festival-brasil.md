@@ -14,7 +14,7 @@ Durante esos días, participaron activamente de rondas de negocios con otras emp
 
 Además, [Gabriel Villalba][perfil-gabriel] fue invitado a participar de la charla [All You Need to Know About the Latam Gamedev Scene][charla-gabriel] con otros exponentes de Uruguay, Argentina, Mexico y Brasil.
 
-![walking]({{ site.baseurl }}/assets/images/16_2.jpg)
+![walking]({{ site.baseurl }}/assets/images/16_2.JPG)
 
 Los pasajes para el evento fueron gracias al apoyo del Proyecto Economía Naranja, Fuerza Creativa BID LAB-CIRD.
 
