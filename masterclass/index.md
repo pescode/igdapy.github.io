@@ -12,6 +12,8 @@ Esta oportunidad formativa se da gracias a un convenio insterinstitucional entre
 
 Si te interesa la propuesta del curso, ingresá a los enlaces más abajo, dejanos tus datos y fijate en las ofertas y descuentos que te ofrece la organización. Te esperamos.
 
+![walking]({{ site.baseurl }}/masterclass/costos.jpg)
+
 
 #### [FORMULARIO DE INSCRIPCIÓN][inscripcion]
 
