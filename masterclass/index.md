@@ -17,10 +17,10 @@ Si te interesa la propuesta del curso, ingresá a los enlaces más abajo, dejano
 
 #### [FORMULARIO DE INSCRIPCIÓN][inscripcion]
 
-#### [DESCARGAR EL PROGRAMA][programa]
+#### [DESCARGAR EL CRONOGRAMA][programa]
 
 #### [DESCARGAR EL DOSSIER][dossier]
 
-[programa]:programa.pdf
+[programa]:cronograma.pdf
 [dossier]:dossier.pdf
 [inscripcion]:https://docs.google.com/forms/d/e/1FAIpQLSeFY6MgAJC1WU33StdwwjFs0NjDvoaZe3JhrxYsfXgAaHkEsA/viewform
