@@ -4,7 +4,7 @@ title:  "Alianza interinstitucional por la Educación en la Industria Creativa d
 author: igdapy
 categories: [ igda ]
 image: assets/images/15.jpg
-featured: true
+featured: false
 ---
 En fecha 20 de agosto de 2019, las instituciones **IGDA-PY**, la **Universidad Columbia** y el **Centro Educativo Los Laureles**, firmaron un convenio de cooperación interinstitucional para poder desarrollar juntos ofertas educativas orientadas al desarrollo del sector de los videojuegos en Paraguay.
 
