@@ -6,6 +6,10 @@ comments: false
 
 Eventos realizados por IGDA PARAGUAY.
 
+#### [Global Game Jam 2020][ggj2020]
+
+31 de Enero - 2 de Febrero
+
 #### [GAMEDEVPY 2019][gamedevpy2019]
 
 30 - 31 de Mayo
@@ -16,3 +20,4 @@ Eventos realizados por IGDA PARAGUAY.
 
 [ggj2019]:/eventos/ggj2019
 [gamedevpy2019]:/eventos/gamedevpy2019
+[ggj2020]:/eventos/gamedevpy2020
