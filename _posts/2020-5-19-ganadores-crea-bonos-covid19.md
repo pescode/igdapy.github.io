@@ -12,7 +12,7 @@ De la lista de ganadores, 4 proyectos representan al sector de videojuegos que s
 
 - **Pombero - El señor de la noche** de Domingo Fabián Alonso
 - **EQUILIBRIUM** de Creadores S.A
-- **The Tribe** de Jesus Gonzalez
+- **The Tribe** de Root Studio
 - **Pequeños Soñadores** de Victor Corvalán
 
 Todos los proyectos tienen el compromiso de ser finalizados antes del 30 de agosto de este año.
