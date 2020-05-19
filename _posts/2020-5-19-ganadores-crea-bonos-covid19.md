@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "Proyectos de videojuegos en los CREA+Bonos - COVID 19"
