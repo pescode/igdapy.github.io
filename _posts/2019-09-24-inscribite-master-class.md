@@ -4,7 +4,7 @@ title:  "Inscribite YA al primer curso de Diseño de Videojuegos"
 author: igdapy
 categories: [ igda ]
 image: assets/images/19.jpg
-featured: true
+featured: false
 ---
 La **Universidad Columbia del Paraguay** y el **Colegio Los Laureles**, serán la sede del **[MASTER CLASS GAME DESIGN][masterclass]**, el primer curso de diseño y desarrollo de videojuegos organizado oficialmente por **IGDA-PY (International Game Developers Association - Capítulo Paraguay)**.
 
