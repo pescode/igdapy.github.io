@@ -11,7 +11,7 @@ El pasado 15 de mayo fueron anunciados **19 ganadores** de la convocatoria **CRE
 De la lista de ganadores, 4 proyectos representan al sector de videojuegos que son:
 
 - **Pombero - El señor de la noche** de Domingo Fabián Alonso
-- **EQUILIBRIUM** de Paulino Rolón
+- **EQUILIBRIUM** de Creadores S.A
 - **The Tribe** de Jesus Gonzalez
 - **Pequeños Soñadores** de Victor Corvalán
 
