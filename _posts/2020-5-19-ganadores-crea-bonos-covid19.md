@@ -6,7 +6,7 @@ categories: [ igda ]
 image: assets/images/21.jpg
 featured: true
 ---
-El pasado 15 de mayo fueron anunciados **19 ganadores** de la convocatoria **CREA+Bonod COVID 19**, realizada en apoyo a las industrias creativas ante la pandemia, lanzada por el **BID Lab**, **Fundación CIRD** y la **Secretaría Nacional de Cultura de Paraguay** para proyectos culturales y creativos, ante la suspensión del **CREA+PY**.
+El pasado 15 de mayo fueron anunciados **19 ganadores** de la convocatoria **CREA+Bonos COVID 19**, realizada en apoyo a las industrias creativas ante la pandemia, lanzada por el **BID Lab**, **Fundación CIRD** y la **Secretaría Nacional de Cultura de Paraguay** para proyectos culturales y creativos, ante la suspensión del **CREA+PY**.
 
 De la lista de ganadores, 4 proyectos representan al sector de videojuegos que son:
 
