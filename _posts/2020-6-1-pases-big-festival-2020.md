@@ -3,7 +3,7 @@ layout: post
 title:  "Aplicá a los pases al BIG FESTIVAL DIGITAL 2020"
 author: igdapy
 categories: [ igda ]
-image: assets/images/2020_06_01_00.jpg
+image: assets/images/2020_06_01_00.png
 featured: true
 ---
 Se viene la versión digital de uno de los eventos más grandes e importantes para los desarrolladores de videojuegos independientes, el **BIG FESTIVAL 2020** que este año se llevará a cabo de forma digital.
