@@ -12,7 +12,7 @@ Dentro de este escenario de diseño y aprendizaje y teniendo en cuenta la situac
 
 El Intercolegial se llevará a cabo el **28 y 29 de agosto (Día Internacional de los Videojuegos)** y podrán participar todos los alumnos desde el **2° Ciclo de la EEB hasta el Nivel Medio (a nivel nacional e internacional)** que quieran mostrar sus habilidades y capacidades de desarrollar videojuegos con la temática de este año : **ADVERGAMING**.
 
->_El Advergaming nace de la combinación de advertising (publicidad) + game (juego). Se trata de una técnica de marketing en la que se utiliza un videojuego para promocionar una marca o producto. El advergaming suele ir acompañado de la narración o historia del videojuego, lo que permite interactividad, perspectiva y libertad de movimiento._
+>El Advergaming nace de la combinación de advertising (publicidad) + game (juego). Se trata de una técnica de marketing en la que se utiliza un videojuego para promocionar una marca o producto. El advergaming suele ir acompañado de la narración o historia del videojuego, lo que permite interactividad, perspectiva y libertad de movimiento.
 
 ### Las categorías de participación son:
 
