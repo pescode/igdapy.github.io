@@ -12,11 +12,11 @@ El pasado Martes 9 de Junio se llevó a cabo la elección de los 2 ganadores de 
 
 Eduardo Benitez - Warani Studios
 
-![walking]({{ site.baseurl }}/assets/images/2020_06_11_01.png)
+![walking]({{ site.baseurl }}/assets/images/2020_06_11_01.jpg)
 
 Alejandro Ramirez - Independiente
 
-![walking]({{ site.baseurl }}/assets/images/2020_06_11_02.png)
+![walking]({{ site.baseurl }}/assets/images/2020_06_11_02.jpg)
 
 ### ACCEDEN A LOS PASES CON DESCUENTO
 
