@@ -18,5 +18,5 @@ Tienen tiempo de aplicar hasta el Martes 16 18:00h, pasadas las 18h el directori
 
 ### **El evento se llevará a cabo del 23 al 25 de junio de este año**
 
-[formulario]:https://docs.google.com/forms/d/e/1FAIpQLSdd6ZMDEGvjlNLGt6bnRMVH4cJhu3_9phqflUUk5JPVtc9-sg/viewform?usp=sf_link
+[formulario]:https://docs.google.com/forms/d/e/1FAIpQLSd0t4jtm-g6of0FLzXxAs8nC_pelyGCKNlznU4aP8drHOPGbQ/viewform
 [web]:https://www.gamelab.es
