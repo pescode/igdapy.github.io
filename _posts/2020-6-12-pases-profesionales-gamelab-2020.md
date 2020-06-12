@@ -12,6 +12,8 @@ IGDA Paraguay ofrece una nueva oportunidad a los desarrolladores de videojuegos 
 
 ### [ACCEDÉ A EL FORMULARIO PARA APLICAR A UNO DE LOS 10 PASES][formulario]
 
+Tienen tiempo de aplicar hasta el Martes 16 18:00h, pasadas las 18h el directorio se reunirá para definir los que serán beneficiados con los pases.
+
 [Sitio web oficial del Gamelab][web]
 
 ### **El evento se llevará a cabo del 23 al 25 de junio de este año**
