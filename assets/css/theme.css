@@ -12,6 +12,16 @@ body {
 	padding: 0rem 0rem 1rem 0;
 }
 
+.title{
+	color:#675bff;
+}
+.green{
+	color:#6FD350;
+}
+.gray{
+	color:#464a4c;
+}
+
 a {
 	color:#6FD350;
 }
