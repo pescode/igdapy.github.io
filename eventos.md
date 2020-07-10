@@ -20,4 +20,4 @@ Eventos realizados por IGDA PARAGUAY.
 
 [ggj2019]:/eventos/ggj2019
 [gamedevpy2019]:/eventos/gamedevpy2019
-[ggj2020]:/eventos/gamedevpy2020
+[ggj2020]:/eventos/ggj2020
