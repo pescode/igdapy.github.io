@@ -62,6 +62,8 @@ Los niños podrán ejecutar sus propios proyectos de videojuego en muy poco tiem
 
 `Duración`: 2 meses
 
+`Orientado a`: Jóvenes de 10 a 18 años.
+
 `Inicia`: 21 de septiembre.
 
 **4. Entorno Unity-Blender**
