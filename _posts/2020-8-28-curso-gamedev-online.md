@@ -34,7 +34,7 @@ Este curso es una introducción al motor de juego UNITY, una de las más utiliza
 
 El estudiante de este curso tendrá conocimiento de una herramienta que permite a miles de desarrolladores salir al mercado con productos de alta calidad.
 
-`Jueves, 19:00 - 20:30 hs. Sábados, 10:00 a 12:30 hs.`
+`Miércoles, 19:00 - 20:30 hs. Sábados, 10:00 a 12:30 hs.`
 
 `Duración`: 2,5 meses.
 
@@ -70,7 +70,7 @@ En este curso aprenderás el flujo de trabajo entre Blender 3D y Unity para un f
 
 Al final del curso el estudiante tendrá los conocimientos para optimizar sus habilidades en esta herramienta 3D, como también en el manejo de formatos estándares usados por estudios alrededor del mundo y resolver problemas que puedan surgir durante la creación de assets en proyectos personales o en equipos.
 
-`Martes y jueves, 18:00 a 20:00 hs.`
+`Lunes y viernes, 18:00 a 19:30 hs.`
 
 `Duración`: 2 meses
 
