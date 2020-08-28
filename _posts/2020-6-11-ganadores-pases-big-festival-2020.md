@@ -4,7 +4,7 @@ title:  "Ganadores de los pases al BIG FESTIVAL DIGITAL 2020"
 author: igdapy
 categories: [ igda ]
 image: assets/images/2020_06_01_00.png
-featured: true
+featured: false
 ---
 El pasado Martes 9 de Junio se llevó a cabo la elección de los 2 ganadores de los pases VIP (valuadas en $70 USD) y que tendrán acceso full al evento digital y a las rondas de negocios con destacados publishers y desarrolladores de la industria.
 
