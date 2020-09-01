@@ -121,6 +121,4 @@ Llamadas, mensajes y/o Whatsapp:
 
 +595 985638729
 
-+595 985638729
-
 [formulario]:https://forms.gle/8eigk7T95z3Rg3Je8
