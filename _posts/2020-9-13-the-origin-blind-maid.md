@@ -3,7 +3,7 @@ layout: post
 title:  "The Origin: Blind Maid de Warani Studios"
 author: igdapy
 categories: [ igda ]
-image: assets/images/2020_09_13_00.png
+image: assets/images/2020_09_13_00.jpg
 featured: true
 ---
 La aventura de terror en primera persona **THE ORIGIN: Blind Maid** llegará durante el primer trimestre del próximo año.
