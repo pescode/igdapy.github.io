@@ -31,11 +31,11 @@ Prepárate para verte las caras con Karai Vosa, distintas clases de espectros y 
 
 #### Prepárate a sentir auténtico terror en primera persona durante el primer trimestre de 2021.
 
-{% youtube kn28lHyiIXk %}
+{% include youtubePlayer.html id="kn28lHyiIXk" %}
 
 #### Más información:
 
-{% youtube AxJ1Z7Og9ak %}
+{% include youtubePlayer.html id="AxJ1Z7Og9ak" %}
 
 [Warani Studios sitio oficial][web]
 
