@@ -4,7 +4,7 @@ title:  "Aplicá a los pases Profesionales para el GAMELAB 2020"
 author: igdapy
 categories: [ igda ]
 image: assets/images/2020_06_12_00.png
-featured: true
+featured: false
 ---
 IGDA Paraguay ofrece una nueva oportunidad a los desarrolladores de videojuegos del país, esta vez para formar parte de la ronda de negocios del **GAMELAB BARCELONA 2020** valuadas en **20 EUROS** cada uno.
 
