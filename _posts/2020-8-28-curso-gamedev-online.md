@@ -36,9 +36,9 @@ El estudiante de este curso tendrá conocimiento de una herramienta que permite 
 
 `Miércoles, 19:00 - 20:30 hs. Sábados, 10:00 a 12:30 hs.`
 
-`Duración`: 2,5 meses.
+`Duración`: 8 semanas.
 
-`Inicia`: 17 de septiembre.
+`Inicia`: 30 de Setiembre.
 
 **2. Character design**
 
@@ -48,9 +48,9 @@ Dirigido a artistas, ilustradores, diseñadores gráficos, aspirantes a game des
 
 `Sábados, 15:00 a 18:00 hs.`
 
-`Duración`: 2 meses
+`Duración`: 8 semanas.
 
-`Inicia`: 19 de septiembre.
+`Inicia`: 3 de Octubre.
 
 **3. Construct x Kids**
 
@@ -60,11 +60,11 @@ Los niños podrán ejecutar sus propios proyectos de videojuego en muy poco tiem
 
 `Lunes y miércoles, 18:00 a 19:30 hs.`
 
-`Duración`: 2 meses
+`Duración`: 8 semanas.
 
 `Orientado a`: Jóvenes de 10 a 18 años.
 
-`Inicia`: 21 de septiembre.
+`Inicia`: 5 de Octubre.
 
 **4. Entorno Unity-Blender**
 
@@ -74,9 +74,9 @@ Al final del curso el estudiante tendrá los conocimientos para optimizar sus ha
 
 `Lunes y viernes, 18:00 a 19:30 hs.`
 
-`Duración`: 2 meses
+`Duración`: 8 semanas.
 
-`Inicia`: 22 de septiembre
+`Inicia`: 5 de Octubre.
 
 **5. Gamedev para docentes**
 
@@ -88,9 +88,9 @@ Para ello se utilizará el programa Construct 3, por su accesibilidad y fácil a
 
 `Martes y jueves, 18:00 a 19:30 hs.`
 
-`Duración`: 2 meses
+`Duración`: 8 semanas.
 
-`Incia`: 22 de septiembre.
+`Incia`: 6 de Octubre.
 
 **6.Modelado 3D para videojuegos.**
 
@@ -100,9 +100,9 @@ Comprenderás los principios del modelado 3D. Aprenderás a desplegar UVs correc
 
 `Martes y jueves, 18:00 a 19:30 hs.`
 
-`Duración`: 2 meses
+`Duración`: 8 semenas.
 
-`Inicia`: 22 de septiembre.
+`Inicia`: 6 de Octubre.
 
 
 >Al final de los cursos el alumno/a obtendrá un certificado digital emitido por la Universidad Columbia. 
