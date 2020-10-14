@@ -2,7 +2,7 @@
 layout: post
 title:  "Nació la Federación de Industrias Creativas"
 author: igdapy
-categories: [ IGDAPY ]
+categories: [ IGDA PY ]
 image: assets/images/2.jpg
 featured: false
 ---

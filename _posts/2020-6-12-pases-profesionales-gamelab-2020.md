@@ -2,7 +2,7 @@
 layout: post
 title:  "Aplicá a los pases Profesionales para el GAMELAB 2020"
 author: igdapy
-categories: [ igda ]
+categories: [ Eventos ]
 image: assets/images/2020_06_12_00.png
 featured: false
 ---

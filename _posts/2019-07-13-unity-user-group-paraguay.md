@@ -2,7 +2,7 @@
 layout: post
 title:  "Unity User Group Paraguay"
 author: igdapy
-categories: [ igda ]
+categories: [ IGDA PY ]
 image: assets/images/13.jpg
 featured: false
 ---

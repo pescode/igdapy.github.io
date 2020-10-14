@@ -2,7 +2,7 @@
 layout: post
 title:  "Malavision finalista del Indie Prize USA 2019"
 author: igdapy
-categories: [ igda, gamedev ]
+categories: [ Juegos, Premios ]
 image: assets/images/14.jpg
 featured: false
 ---

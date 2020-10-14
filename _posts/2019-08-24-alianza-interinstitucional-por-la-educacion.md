@@ -2,7 +2,7 @@
 layout: post
 title:  "Alianza interinstitucional por la Educación en la Industria Creativa de los Videojuegos"
 author: igdapy
-categories: [ igda ]
+categories: [ IGDA PY, Educación ]
 image: assets/images/15.jpg
 featured: false
 ---

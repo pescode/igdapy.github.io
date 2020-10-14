@@ -2,7 +2,7 @@
 layout: post
 title:  "Proyectos de videojuegos en los CREA+Bonos - COVID 19"
 author: igdapy
-categories: [ igda ]
+categories: [ IGDA PY, Juegos ]
 image: assets/images/21.jpg
 featured: false
 ---

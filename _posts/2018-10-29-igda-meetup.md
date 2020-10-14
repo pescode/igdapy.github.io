@@ -2,7 +2,7 @@
 layout: post
 title:  "IGDA Meetup #6"
 author: igdapy
-categories: [ IGDAPY, eventos ]
+categories: [ IGDA PY, Eventos ]
 image: assets/images/3.jpg
 ---
 Están todos invitados al sexto IGDA Meetup del año!

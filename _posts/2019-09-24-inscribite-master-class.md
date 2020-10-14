@@ -2,7 +2,7 @@
 layout: post
 title:  "Inscribite YA al primer curso de Diseño de Videojuegos"
 author: igdapy
-categories: [ igda ]
+categories: [ Educación ]
 image: assets/images/19.jpg
 featured: false
 ---

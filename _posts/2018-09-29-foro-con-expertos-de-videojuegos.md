@@ -2,7 +2,7 @@
 layout: post
 title:  "Primer Foro con Expertos en el Desarrollo de Videojuegos"
 author: igdapy
-categories: [ IGDAPY ]
+categories: [ Eventos ]
 image: assets/images/1.jpg
 ---
 Mañana estaremos en el "Primer Foro con Expertos en el Desarrollo de Videojuegos".

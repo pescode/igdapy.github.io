@@ -2,7 +2,7 @@
 layout: post
 title:  "Aplicá a los pases al BIG FESTIVAL DIGITAL 2020"
 author: igdapy
-categories: [ igda ]
+categories: [ Eventos ]
 image: assets/images/2020_06_01_00.png
 featured: false
 ---

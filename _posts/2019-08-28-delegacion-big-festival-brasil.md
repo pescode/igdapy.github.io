@@ -2,7 +2,7 @@
 layout: post
 title:  "Delegación paraguaya en el BIG FESTIVAL Brasil"
 author: igdapy
-categories: [ igda ]
+categories: [ IGDA PY, Eventos ]
 image: assets/images/16.jpg
 featured: false
 ---

@@ -2,7 +2,7 @@
 layout: post
 title:  "Nueva convocatoria de cursos gamedev online"
 author: igdapy
-categories: [ igda ]
+categories: [ Educación ]
 image: assets/images/gamedevonline2020/header.png
 featured: true
 ---

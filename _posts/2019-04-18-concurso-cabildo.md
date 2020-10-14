@@ -2,7 +2,7 @@
 layout: post
 title:  "Concurso de Desarrollo de Videojuegos"
 author: igdapy
-categories: [ concursos ]
+categories: [ Concursos ]
 image: assets/images/8.jpg
 featured: false
 ---

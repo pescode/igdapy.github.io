@@ -2,7 +2,7 @@
 layout: post
 title:  "Presentación de novela Blackout, basada en el videojuego Fhacktions"
 author: igdapy
-categories: [ gamedevs ]
+categories: [ Juegos ]
 image: assets/images/18.jpg
 featured: false
 ---

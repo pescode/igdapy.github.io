@@ -2,7 +2,7 @@
 layout: post
 title:  "Aprendé a armar tu proyecto de juego desde cero"
 author: igdapy
-categories: [ igda ]
+categories: [ Educación ]
 image: assets/images/20.png
 featured: false
 ---

@@ -2,7 +2,7 @@
 layout: post
 title:  "Ganadores del Intercolegial de Desarrollo de Videojuegos"
 author: igdapy
-categories: [ igda ]
+categories: [ IGDA PY, Educación ]
 image: assets/images/17.jpg
 featured: false
 ---

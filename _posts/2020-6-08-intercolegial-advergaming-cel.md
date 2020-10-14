@@ -2,7 +2,7 @@
 layout: post
 title:  "Intercolegial de Desarrollo de Videojuegos 2020"
 author: igdapy
-categories: [ igda ]
+categories: [ Educación ]
 image: assets/images/2020_06_08_01.png
 featured: false
 ---

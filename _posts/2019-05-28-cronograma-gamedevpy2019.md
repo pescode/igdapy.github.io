@@ -2,7 +2,7 @@
 layout: post
 title:  "Cronograma GAMEDEVPY 2019"
 author: igdapy
-categories: [ igdapy ]
+categories: [ IGDA PY, Eventos ]
 image: assets/images/11.jpg
 featured: false
 ---

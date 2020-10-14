@@ -2,7 +2,7 @@
 layout: post
 title:  "Fhacktions será Acelerado por Google en Singapur"
 author: igdapy
-categories: [ juegos ]
+categories: [ Juegos ]
 image: assets/images/12.jpg
 featured: false
 ---

@@ -2,7 +2,7 @@
 layout: post
 title:  "Asamblea ordinaria y nuevas autoridades"
 author: igdapy
-categories: [ IGDAPY ]
+categories: [ IGDA PY ]
 image: assets/images/6.jpg
 featured: false
 ---

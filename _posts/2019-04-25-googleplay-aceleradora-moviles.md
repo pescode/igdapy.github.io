@@ -2,7 +2,7 @@
 layout: post
 title:  "Google Play anuncia su aceleradora para juegos móviles"
 author: igdapy
-categories: [ igdapy ]
+categories: [ Industria ]
 image: assets/images/9.jpg
 featured: false
 ---
