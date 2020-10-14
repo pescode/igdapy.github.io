@@ -4,7 +4,7 @@ title:  "Nueva convocatoria de cursos gamedev online"
 author: igdapy
 categories: [ Educación ]
 image: assets/images/gamedevonline2020/header.png
-featured: true
+featured: false
 ---
 **IGDA Paraguay** y la **UCP (Universidad Columbia del Paraguay)** inician una nueva convocatoria de cursos, esta vez de forma online 100% prácticos con clases en directo impartidas por profesores en vivo.
 
