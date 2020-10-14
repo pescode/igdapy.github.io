@@ -22,6 +22,7 @@ Eventos realizados por IGDA PARAGUAY.
 
 25 - 28 de Enero 2019
 
+[e-gamedev-py-2020]:/eventos/e-gamedev-py-2020
 [ggj2019]:/eventos/ggj2019
 [gamedevpy2019]:/eventos/gamedevpy2019
 [ggj2020]:/eventos/ggj2020
