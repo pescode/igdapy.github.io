@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Origin: Blind Maid de Warani Studios"
+title:  "THE ORIGIN: Blind Maid de Warani Studios"
 author: igdapy
 categories: [ Juegos ]
 image: assets/images/2020_09_13_00.jpg
