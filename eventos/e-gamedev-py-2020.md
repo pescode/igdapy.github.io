@@ -19,7 +19,7 @@ Además contaremos con la participación de destacados desarrolladores internaci
 
 #### Las primeras fechas del Gamedev Py serán:
 - 19 de octubre 19:00: Creadores (Escape Fast), Roshka (Shapey Heads) e Inside Studios (Pombero).
-- 2 de noviembre 18:00: Warani Studios (Malavisión) y Posibillian Tech (Fhacktions).
+- 2 de noviembre 18:00: BadLand Publishing (desde España), Warani Studios (Malavisión) y Posibillian Tech (Fhacktions).
 - 16 de noviembre: desarrollador internacional a confirmar.
 - 30 de noviembre: desarrollador internacional a confirmar.
 
