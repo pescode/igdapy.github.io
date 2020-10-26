@@ -18,10 +18,10 @@ Esta edición se llevará a cabo de forma online con charlas, rondas de pregunta
 Además contaremos con la participación de destacados desarrolladores internacionales en las rondas de preguntas y respuestas. Los invitados serán confirmados en las siguientes semanas.
 
 #### Las primeras fechas del Gamedev Py serán:
-- 19 de septiembre 19:00: Creadores (Escape Fast), Roshka (Shapey Heads) e Inside Studios (Pombero).
+- 19 de octubre 19:00: Creadores (Escape Fast), Roshka (Shapey Heads) e Inside Studios (Pombero).
 - 2 de noviembre 18:00: Warani Studios (Malavisión) y Posibillian Tech (Fhacktions).
+- 16 de noviembre: desarrollador internacional a confirmar.
 - 30 de noviembre: desarrollador internacional a confirmar.
-- 7 de diciembre: desarrollador internacional a confirmar.
 
 #### Canales
 El acceso es libre y gratuito, las conferencias serán transmitidas en los canales de IGDA PY (igdapy) en Youtube y Twitch.
