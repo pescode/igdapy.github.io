@@ -4,7 +4,7 @@ title:  "Cloud Gaming Forum Latam 2020"
 author: igdapy
 categories: [ Eventos ]
 image: assets/images/cloud_gaming_forum_2020.jpg
-featured: true
+featured: false
 ---
 **¡Participá del Cloud Gaming Forum Latam 2020!**
 
