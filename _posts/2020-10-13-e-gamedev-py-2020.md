@@ -1,32 +1,20 @@
 ---
 layout: post
-title:  "ẽ-Gamedev Py 2020"
+title:  "Cloud Gaming Forum Latam 2020"
 author: igdapy
 categories: [ Eventos ]
-image: assets/images/egamedevpy2020/e-Gamedev-1200x628.png
+image: assets/images/cloud_gaming_forum_2020.jpg
 featured: true
 ---
-**¡Se viene el Gamedev Py 2020 online!**
+**¡Participá del Cloud Gaming Forum Latam 2020!**
 
-IGDA Paraguay lanza una nueva edición del evento **Gamedev Py**, esta vez de forma online.
+¿Qué sucede con la posibilidad de juego en la nube y qué representa para una industria que busca satisfacer la demanda de más de dos mil setecientos millones de usuarios en todo el mundo?
 
-El Gamedev Py es el principal evento de la industria de videojuegos de Paraguay, que se viene realizando anualmente de forma ininterrumpida desde el año 2015 y que reúne a la comunidad de desarrolladores para celebrar la industria local.
+El **25 de noviembre de 2020** se realizará el primer Foro Latinoamericano de Juegos en la nube, totalmente online y gratuito, reunirá a referentes de las industrias del gaming y telecomunicaciones en tres paneles con distintos oradores. Tendrá una duración de 2 horas y **comenzará a las 3:00 PM (GMT-3).**
 
-Esta edición se llevará a cabo de forma online con charlas, rondas de preguntas y respuestas de la mano de los estudios nacionales más destacados en el último año: Creadores, Posibillian Tech, Roshka Studio, Inside Studios y Warani Studio.
+El evento que busca crear un espacio de discusión dentro de la industria para pensar a futuro y evaluar los desafíos que tiene por delante la región para conversar acerca de la incipiente disrupción en la forma en que los videojuegos son consumidos y los nuevos modelos de monetización que surgen a raíz de estos cambios.
 
-Además contaremos con la participación de destacados desarrolladores internacionales en las rondas de preguntas y respuestas. Los invitados serán confirmados en las siguientes semanas.
-
-#### Las primeras fechas del Gamedev Py serán:
-- 19 de octubre 19:00: Creadores (Escape Fast), Roshka (Shapey Heads) e Inside Studios (Pombero).
-- 2 de noviembre 18:00: BadLand Publishing (desde España), Warani Studios (Malavisión) y Posibillian Tech (Fhacktions).
-- 16 de noviembre 18:00: Rami Ismail (Países Bajos).
-- 30 de noviembre: desarrollador internacional a confirmar.
-
-#### Canales
-El acceso es libre y gratuito, las conferencias serán transmitidas en los canales de IGDA PY (igdapy) en Youtube y Twitch.
-- [Canal de Youtube][youtube]
-- [Canal de Twitch][twitch]
+Cualquier persona interesada puede registrarse en el sitio [www.cloudgamingforum.com][link-evento].
 
 
-[youtube]:https://www.youtube.com/user/igdapy
-[twitch]:https://www.twitch.tv/igdapy
+[link-evento]:www.cloudgamingforum.com
