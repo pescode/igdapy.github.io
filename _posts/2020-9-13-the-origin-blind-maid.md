@@ -4,7 +4,7 @@ title:  "THE ORIGIN: Blind Maid de Warani Studios"
 author: igdapy
 categories: [ Juegos ]
 image: assets/images/2020_09_13_00.jpg
-featured: true
+featured: false
 ---
 La aventura de terror en primera persona **THE ORIGIN: Blind Maid** llegará durante el primer trimestre del próximo año.
 Está siendo creado por **Waraní Studios** y llegará a PlayStation 4, Xbox One, Nintendo Switch y Steam.

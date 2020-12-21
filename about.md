@@ -10,20 +10,20 @@ El objetivo de la asociación es promocionar el trabajo que están desarrollando
 
 Descargá los estatus de [IGDA PY AQUÍ][estatuto_igda]
 
-#### Comisión directiva (2019-2020)
+#### Comisión directiva (2021-2022)
 
-- `Presidente:` Sr. Paulino Rolon
-- `Vicepresidente:` Sr. Jimmy Mottini
-- `Secretario:` Sr. Eduardo Benitez
-- `Tesorero:` Sr. Elias Mascheroni
-- `Comisión de relaciones internacionales:` Sr. Juan De Urraza
-- `Comisión IGDA Joven:` Sr. Jose Avalos
-- `Comisión de comunicaciones:` Sr. Victor Corvalan
-- `Comisión de proyectos:` Sr. Rodolfo Silvero
+- `Presidente:` Sr. Jimmy Mottini
+- `Vicepresidente:` Sr. Gabriel Villalba
+- `Secretaria:` Srta. Ingrid Peñailillo
+- `Tesorero:` Sr. Paulino Rolón
 - `Directores:`
-    - Sr. Jesús González
-    - Srta. Ingrid Peñailillo
-- `Síndico Titular:` Sr. Francisco Armoa
-- `Síndico Suplente:` Sr. Gabriel Villalba
+	- Sr. Juan de Urraza
+	- Sr. Jesús González
+	- Sr. Marcos Codas
+	- Sr. Francisco Armoa
+	- Sr. Elías Mascheroni
+	- Sr. Víctor Corvalán
+- `Síndico Titular:` Sr. Eduardo Benítez
+- `Síndico Suplente:` Sr. José Ávalos
 
 [estatuto_igda]:assets/files/estatutos_igdapy_25_08_2014.pdf
