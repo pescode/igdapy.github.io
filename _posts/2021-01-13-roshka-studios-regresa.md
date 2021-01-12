@@ -13,4 +13,4 @@ El equipo lleva publicado varios juegos en el APPLE STORE y PLAY STORE, algunos 
 
 Más información en [www.roshkastudios.com][web]
 
-[web]:roshkastudios.com
+[web]:www.roshkastudios.com
