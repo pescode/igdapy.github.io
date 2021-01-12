@@ -11,6 +11,6 @@ featured: false
 
 El equipo lleva publicado varios juegos en el APPLE STORE y PLAY STORE, algunos de ellos siendo destacados en las tiendas; además trabajaron con PUBLISHERS como APPSOLUTE GAMES y SPIL GAMES. Entre sus proyectos más importantes se encuentran MiniKnights y Catmageddon.
 
-Más información en [www.roshkastudios.com][web]
+Más información en [roshkastudios.com][web]
 
-[web]:https://www.roshkastudios.com
+[web]:https://roshkastudios.com
